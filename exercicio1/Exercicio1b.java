@@ -1,6 +1,6 @@
 package exercicio1;
 
-public class Exercicio1a{
+public class Exercicio1b{
 	public static void main(String arg[]){
 		String nome = "Daniel";
 		String curso = "Engenharia de Software";
